@@ -18,3 +18,4 @@ This project walks through the process of creating a VNet in Azure. A VNet is a 
 1. `create_vnet.sh` - Script to create a VNet and subnets.
 2. `create_nsg.sh` - Script to create a Network Security Group (NSG).
 3. `create_nic.sh` - Script to create a Network Interface.
+4. `create_nic_usage.md` - Guide on usage of create_nic.sh
