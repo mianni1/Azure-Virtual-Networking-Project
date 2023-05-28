@@ -1,0 +1,14 @@
+NAME,TYPE,LOCATION
+MarsRover,Virtual machine,West US
+MarsRover_disk1_xxxxxxx,Disk,West US
+MarsRoverNSG,Network security group,West US
+MarsRoverPublicIP,Public IP address,West US
+MarsRoverVMNic,Network Interface,West US
+MarsShield,Network security group,West US
+MoonRover,Virtual machine,West US
+MoonRover_disk1_xxxxxxx,Disk,West US
+MoonRoverNSG,Network security group,West US
+MoonRoverPublicIP,Public IP address,West US
+MoonRoverVMNic,Network Interface,West US
+MoonShield,Network security group,West US
+SpaceHighway,Virtual network,West US
