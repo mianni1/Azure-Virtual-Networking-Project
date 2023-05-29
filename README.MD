@@ -29,4 +29,3 @@ The `slightly_complex_ver` folder contains a more advanced Azure CLI Networking 
 - **Logs.txt**: Log file with extracted sensitive information replaced by "x"s.
 
 Please follow the instructions in the README.md file to set up and run the project.
-
